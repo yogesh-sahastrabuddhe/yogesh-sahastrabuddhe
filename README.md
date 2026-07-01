@@ -99,7 +99,8 @@ I'm a DevOps Engineer with hands-on production experience designing and operatin
 ## 🎓 Education
 
 **Bachelor of Engineering — Computer Science (AI & ML)**
-Mumbai University · Vishwaniketan IMEET, Khopoli, Maharashtra · 2021 – 2025 · CGPA: 7.0/10
+Mumbai University ·
+Vishwaniketan IMEET, Khopoli, Maharashtra · 2021 – 2025 · CGPA: 7.0/10
 
 ---
 
