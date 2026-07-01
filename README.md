@@ -71,7 +71,7 @@ I'm a DevOps Engineer with hands-on production experience designing and operatin
 - Cut **MTTD from ~12 min to under 2 min** with multi-stage OTel Collector pipelines (OTLP receivers, batch processors, exporters)
 - Integrated **Honeycomb MCP Server with Claude AI** for natural-language, query-driven debugging — reduced root-cause analysis time by **~60%**
 
-### 🔹 IoT OTA Update System
+### 🔹 [IoT OTA Update System](https://github.com/yogesh-sahastrabuddhe/IoT-OTA-Updates-greengrass)
 `AWS Greengrass` `IoT Core` `Edge Deployment`
 - Replaced manual SSH-based firmware updates with **Greengrass OTA component-model workflows**
 - Cut deployment time by **80%** (20 min → 4 min) with **99%+ fleet-wide success rate** via automated rollback
