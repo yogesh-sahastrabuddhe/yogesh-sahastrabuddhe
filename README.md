@@ -82,10 +82,22 @@ I'm a DevOps Engineer with hands-on production experience designing and operatin
 
 ## 💼 Experience
 
-**Research Lead Intern** — Startologic Technologies · *Sept 2024 – Apr 2025*
-- Built a Botstrap-based AI automation agent, cutting manual research effort by **70%** and report turnaround from 5 days to 1.5 days
-- Automated end-to-end competitive intelligence workflows with Bash + n8n across 50+ market players
-- Delivered deep-tech research (LiDAR, ANPR, FRS, IoT surveillance) shaping positioning for 3 enterprise outreach campaigns
+**Cloud Engineering Intern** — Branverse Ai ·  *Aug 2025 – Jun 2026*
+Management of AWS infrastructure (EC2, S3, IAM, VPC) for Python-based and AI-enabled applications and some compute and storage 
+provisioning on OCI. 
+• Containerization of services using Docker and support for Kubernetes deployments, resulting in more consistent and scalable releases. 
+• Provisioning of infrastructure using Terraform and maintenance of CI/CD flows for application deployments. 
+• Building of Python/FastAPI automation and cloud-integrated services and troubleshooting of Linux, container and cloud issues.
+
+
+
+**IoT Cloud Intern** — Startologic Technologies · *Sept 2024 – Apr 2025*
+•  Build an OTA deployment system on AWS IoT Core and Greengrass to push software and firmware updates to edge devices, replacing 
+manual SSH-based updates. 
+• Create Greengrass component-based deployments with versioning, validation, failure handling and rollback. 
+• Reduce deployment time by 80% (20 to 4 minutes) with 99%+ update success across the device fleet. 
+• Setup edge-to-cloud communication and central device management using AWS, Linux, Python and Docker.
+  
 
 ---
 
@@ -108,9 +120,12 @@ Vishwaniketan IMEET, Khopoli, Maharashtra · 2021 – 2025 · CGPA: 7.0/10
 
 ### 📫 Let's connect and build something reliable together
 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogesh-sahastrabuddhe-ab670b24a)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogeshsahastrabuddhe.jobs@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogesh-sahastrabuddhe)
+[![Resume](https://img.shields.io/badge/Resume-Download%20%2F%20View-2E8B57?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/19CnMV1eUys5qp5MWUvgSRmwvnR_eHzW6/view?usp=sharing)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yogesh-sahastrabuddhe&color=blueviolet&style=flat-square)
 
